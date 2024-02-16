@@ -1,0 +1,1 @@
+# simple project built using html,css js and using Weather Api
